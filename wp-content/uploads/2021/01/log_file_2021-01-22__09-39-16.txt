@@ -1,0 +1,213 @@
+
+---Downloaded files---
+The import files for: Demo One were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/actualite
+Data file = C:\xampp\htdocs\actualite/wp-content/uploads/2021/01/demo-content-import-file_2021-01-22__09-39-16.xml
+Widget file = C:\xampp\htdocs\actualite/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-22__09-39-16.json
+Customizer file = C:\xampp\htdocs\actualite/wp-content/uploads/2021/01/demo-customizer-import-file_2021-01-22__09-39-16.dat
+
+------
+Completed AJAX call number: 1
+[ERROR] Failed to import "audi-automobile-car-lights-1149831" (Fichier média)
+
+
+------
+Completed AJAX call number: 2
+[ERROR] Failed to import "audi-automobile-car-lights-1149831" (Fichier média)
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+[ERROR] Failed to import "ghtgtr th rgr" (Fichier média)
+[ERROR] Failed to import "pexels-photo-1125744" (Fichier média)
+[ERROR] Failed to import "girl-3307268_1920" (Fichier média)
+
+
+------
+Completed AJAX call number: 10
+[ERROR] Failed to import "ghtgtr th rgr" (Fichier média)
+[ERROR] Failed to import "pexels-photo-1125744" (Fichier média)
+
+
+------
+Completed AJAX call number: 11
+
+
+------
+Completed AJAX call number: 12
+
+
+------
+Completed AJAX call number: 13
+
+
+------
+Completed AJAX call number: 14
+[ERROR] Failed to import "beautiful-blonde-brick-wall-907826" (Fichier média)
+
+
+------
+Completed AJAX call number: 15
+[ERROR] Failed to import "beautiful-blonde-brick-wall-907826" (Fichier média)
+
+
+------
+Completed AJAX call number: 16
+
+
+------
+Completed AJAX call number: 17
+
+
+------
+Completed AJAX call number: 18
+
+
+------
+Completed AJAX call number: 19
+
+
+------
+Completed AJAX call number: 20
+
+
+------
+Completed AJAX call number: 21
+
+
+------
+Completed AJAX call number: 22
+[ERROR] Failed to import "adult-alluring-attractive-2849741-(1)-min" (Fichier média)
+[ERROR] Failed to import "people-female-dance-red-fashion-sports-950475-pxhere.com" (Fichier média)
+[ERROR] Failed to import "best-candid-traditional-wedding-photography-red-1454849-pxhere.com" (Fichier média)
+[ERROR] Failed to import "person-girl-woman-hair-wine-restaurant-1058435-pxhere.com" (Fichier média)
+[ERROR] Failed to import "outdoor-person-light-girl-woman-hair-1221096-pxhere.com" (Fichier média)
+[ERROR] Failed to import "girl-woman-photography-photo-fur-portrait-748279-pxhere.com" (Fichier média)
+[ERROR] Failed to import "red-beauty-human-hair-color-lady-eyewear-girl-1545119-pxhere.com" (Fichier média)
+[ERROR] Failed to import "grand-palace-1822487_1920" (Fichier média)
+[ERROR] Failed to import "grand-canal-918699_1920" (Fichier média)
+
+
+------
+Completed AJAX call number: 23
+
+
+------
+Completed AJAX call number: 24
+
+
+------
+Completed AJAX call number: 25
+
+
+------
+Completed AJAX call number: 26
+
+
+------
+Completed AJAX call number: 27
+
+
+------
+Completed AJAX call number: 28
+
+
+------
+Completed AJAX call number: 29
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+
+---Importing content---
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+[WARNING] Could not find the author for comment #10
+[WARNING] Could not find the author for comment #11
+[WARNING] Could not find the author for comment #14
+[WARNING] Could not find the author for comment #15
+[WARNING] Could not find the author for comment #16
+[WARNING] Could not find the author for comment #17
+
+Max execution time after content import = 300
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+Barre : 
+
+GM : Widget d’article - Post Widget 2 - Imported
+Calendrier - Check Date - Widget already exists
+Galerie - New Models - Widget already exists
+GM : Widget d’article - Post Widget 1 - Imported
+
+Publicité d’en-tête : 
+
+Image - No Title - Widget already exists
+
+Barre de canvas : 
+
+GM : Widget d’article - Post Widget 1 - Widget already exists
+Galerie - Gallery - Widget already exists
+Texte - Heath Tips - Widget already exists
+Nuage d’étiquettes - Tags - Widget already exists
+GM : Widget d’article - Post Widget 2 - Widget already exists
+
+Zone de nouvelles du haut en pleine largeur : 
+
+GM : Widget de nouvelles en pleine largeur - Fullwidth Widget 1 - Widget already exists
+GM : Widget de nouvelles en pleine largeur - Fullwidth Widget 2 - Widget already exists
+
+Zone de nouvelles du milieu : 
+
+GM : Widget de nouvelles demi-largeur - Halfwidth Widget 2 - Widget already exists
+GM : Widget de nouvelles demi-largeur - Halfwidth Widget 3 - Widget already exists
+GM : Widget de nouvelles demi-largeur - Halfwidth Widget 2 - Widget already exists
+GM : Widget de nouvelles demi-largeur - Halfwidth Widget 1 - Widget already exists
+
+Zone de nouvelles du bas en pleine largeur : 
+
+GM : Widget de nouvelles en pleine largeur - Fullwidth Widget 2 - Widget already exists
+GM : Widget de nouvelles en pleine largeur - Fullwidth Widget 1 - Widget already exists
+
+Pied de page de gauche : 
+
+Texte - About Us - Widget already exists
+
+Pied de Page du milieu : 
+
+GM : Widget d’article - Recent Post - Widget already exists
+
+Pied de page de droite : 
+
+Galerie - gallery - Widget already exists
+
+
+
+---et-after-demo-content-import---
+
